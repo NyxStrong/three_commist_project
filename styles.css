@@ -1,4 +1,12 @@
 body {
     text-align: center;
     background-color: #bebebe;
+    margin: 0%;
+}
+div.container {
+    margin: 0% 12.5%;
+    padding-top: 1%;
+    width: 75%;
+    background-color: white;
+    height: 100%;
 }
